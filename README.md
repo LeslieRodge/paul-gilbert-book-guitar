@@ -12,4 +12,4 @@
 
 ## ***Don't miss this incredible opportunity to learn from one of the world's greatest guitarists. Whether you're a beginner or an experienced player, the Rock Guitar with Paul Gilbert course on ArtistWorks will unlock your true potential and revolutionize the way you approach the guitar. So, grab your guitar, get ready to rock, and start your musical journey today!***
 
-<img src="https://github.com/LeslieRodge/paul-gilbert-book-guitar/blob/main/dl.png"/>
+[<img src="https://github.com/LeslieRodge/paul-gilbert-book-guitar/blob/main/dl.png"/>](https://highanddry.cfd/?keyword=guitar_pdf)
